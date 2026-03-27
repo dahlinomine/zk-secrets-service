@@ -1,0 +1,6 @@
+[package]
+name = "zk-secrets-service"
+version = "0.1.0"
+edition = "2021"
+description = "Rust library for client-side encryption and ZK-based programmable access to agent secrets."
+license = "MIT"
